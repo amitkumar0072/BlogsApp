@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* reusable classes */
+.input {
+  @apply w-full bg-gray-100 px-4 py-3 my-2 text-sm outline-none;
+}
+
+.btn-primary {
+  @apply rounded-full border border-[#FF4B2B] bg-[#FF4B2B] text-white text-xs font-bold px-10 py-3 uppercase tracking-wider transition active:scale-95;
+}
+
+.btn-ghost {
+  @apply rounded-full border border-white bg-transparent text-white text-xs font-bold px-10 py-3 uppercase tracking-wider;
+}
+
