@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Auth from "./pages/Auth";
 import Blogs from "./pages/Blogs";
-import CreateBlog from "./pages/CreateBlog";
+import CreateBlog from "./pages/Write";
 import MyBlogs from "./pages/MyBlogs";
 import EditBlog from "./pages/EditBlog";
 
