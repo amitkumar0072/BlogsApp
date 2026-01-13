@@ -8,8 +8,8 @@ This project demonstrates real-world full-stack development skills including fro
 
 ## 🚀 Live Demo
 
-Frontend: [https://your-project.vercel.app](https://your-project.vercel.app)
-Backend: [https://your-backend-name.onrender.com](https://your-backend-name.onrender.com)
+Frontend: [https://your-project.vercel.app](https://blogs-app-theta-three.vercel.app/)
+Backend: [https://your-backend-name.onrender.com](https://blogsapp-5izd.onrender.com)
 
 👉 Click **Try Demo** on the login page to explore without signing up.
 
@@ -20,6 +20,7 @@ Backend: [https://your-backend-name.onrender.com](https://your-backend-name.onre
 ```
 Email: demo@arnifi.com
 Password: demo123
+Name: Demo User
 ```
 
 ---
@@ -145,9 +146,8 @@ This project includes a **Try Demo** feature to allow quick evaluation without s
 **Amit Kumar**
 IIT Graduate | Full Stack Developer
 
-LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-
+LinkedIn: www.linkedin.com/in/amit-kumar-92111b241
+GitHub: https://github.com/amitkumar0072
 ---
 
 ⭐ If you like this project, feel free to star the repository!
